@@ -37,13 +37,7 @@ The analyzer evaluates your password based on the following criteria:
 4. Review the weakness messages below the input field
 5. See suggested strong passwords when your current password scores below 70%
 
-## Scoring System
 
-- **0-30**: Very Weak (Red)
-- **30-60**: Weak (Orange)
-- **60-75**: Fair (Yellow)
-- **75-90**: Strong (Light Green)
-- **90-100**: Very Strong (Green)
 
 ## Tips for Creating Strong Passwords
 
@@ -86,19 +80,8 @@ Simply download `password.html` and open it in any modern web browser. No server
 - `generateStrongPassword()`: Creates a random strong password suggestion
 - `characterTypeWeakness()`: Checks for required character types
 
-## Future Enhancements
 
-- Export password strength statistics
-- Password history tracking
-- Keyboard pattern detection
-- Pronunciation-friendly password generation
-- Dark/Light mode toggle
-- Multi-language support
 
-## License
 
-Open source - Feel free to use and modify as needed!
 
----
 
-**Note**: Never share your passwords with anyone, and avoid entering real passwords into untrusted websites. This tool runs entirely in your browser with no data transmission to external servers.
